@@ -164,7 +164,7 @@ The project consists of a single Java file:
 
 ## Author
 
-- **Your Name**
+- **Luiz Braga**
 - GitHub: [luizpbraga](https://github.com/luizpbraga)
 - Email: portilho.braga@gmail.com
 
