@@ -44,12 +44,12 @@ for i in {0..25}; do
   text=$(java HtmlAnalyzer "$URL")
   expected="${results[$i]}"
   
-  # Escrever o resultado correspondente no arquivo output
   if [ "$expected" == "$text" ]; then 
-    echo "valores iquail"
+    echo "valores iquais"
   else 
     echo "valores nao iquais"
   fi
 
+  # Escrever o resultado correspondente no arquivo output
   echo "$text|$expected" >> output
 done
