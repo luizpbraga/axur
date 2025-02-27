@@ -1,0 +1,52 @@
+http://localhost:8080/0.html
+Texto mais profundo.|Texto mais profundo.
+http://localhost:8080/1.html
+malformed HTML|malformed HTML
+http://localhost:8080/2.html
+Este é o corpo.|Este é o corpo.
+http://localhost:8080/3.html
+malformed HTML|malformed HTML
+http://localhost:8080/4.html
+Texto 1. AAA.|Texto 1. AAA.
+http://localhost:8080/5.html
+|
+http://localhost:8080/6.html
+Este é um texto sem tags.|Este é um texto sem tags.
+http://localhost:8080/7.html
+|
+http://localhost:8080/8.html
+Texto mais profundo.|Texto mais profundo.
+http://localhost:8080/9.html
+Título da página.|Título da página.
+http://localhost:8080/10.html
+Profundidade máxima alcançada.|Profundidade máxima alcançada.
+http://localhost:8080/11.html
+Apenas título.|Apenas título.
+http://localhost:8080/12.html
+Texto direto no body.|Texto direto no body.
+http://localhost:8080/13.html
+Primeiro texto profundo.|Primeiro texto profundo.
+http://localhost:8080/14.html
+Apenas um nível.|Apenas um nível.
+http://localhost:8080/15.html
+malformed HTML|malformed HTML
+http://localhost:8080/16.html
+malformed HTML|malformed HTML
+http://localhost:8080/17.html
+malformed HTML|malformed HTML
+http://localhost:8080/18.html
+malformed HTML|malformed HTML
+http://localhost:8080/19.html
+|
+http://localhost:8080/20.html
+malformed HTML|malformed HTML
+http://localhost:8080/21.html
+malformed HTML|malformed HTML
+http://localhost:8080/22.html
+O mais profundo possível.|O mais profundo possível.
+http://localhost:8080/23.html
+malformed HTML|malformed HTML
+http://localhost:8080/24.html
+O mais profundo possível.|O mais profundo possível.
+http://localhost:8080/25.html
+|
